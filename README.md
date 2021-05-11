@@ -55,7 +55,6 @@ You can click the Preview link to take a look at your changes.
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="devicon" height="50" width="50" />
 </p>
 
